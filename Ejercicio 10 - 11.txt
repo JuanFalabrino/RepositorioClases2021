@@ -1,0 +1,22 @@
+Realizar un programa que calcule las cuotas de un préstamo bancario. 
+Solicitarle al Cliente por JOPTIONPANE :
+Nombre  y apellido
+DNI
+Sueldo Mensual:
+Solicitado:
+Cuotas : hasta 12 
+
+Calculo: 
+•	El banco presta hasta 100000 pesos siempre y cuando el sueldo del solicitante superé los 200000 anuales.
+•	El préstamo  no debe superar a los 10 sueldos del cliente.
+•	Calculo = solicitado / cuota
+
+Imprimir la información consola
+Logo del banco 
+Información del cliente  
+Monto solicitado
+Cantidad de cuotas
+Importe a pagar
+Y Si esta aprobado o no (este puede contener un icono simbolizando el si o el no)
+
+
